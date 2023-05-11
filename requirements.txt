@@ -1,0 +1,7 @@
+lmfit
+matplotlib
+pybroom
+xlrd
+xlwt
+openpyxl
+pillow
